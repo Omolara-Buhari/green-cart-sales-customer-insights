@@ -31,10 +31,10 @@ The objective was to clean, merge, and analyze sales, product, and customer data
 
 ## Visualizations
 - Weekly Revenue Trends by Region
-- Top Product Categories by Revenue
-- Quantity vs Discount Analysis
+- Top 5 Product Categories by Revenue
 - Correlation Heatmap
 - Orders by Loyalty Tier
+- Quantity Distribution Across Top Categories
 - Delivery Status by Price Band
 
 ## Key Business Questions Answered
