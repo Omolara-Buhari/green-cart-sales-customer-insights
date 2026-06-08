@@ -29,7 +29,7 @@ The objective was to clean, merge, and analyze sales, product, and customer data
 - Email Domain
 - Late Delivery Flag
 
-## Visualizations
+## Key Visualizations
 - Weekly Revenue Trends by Region
 - Top 5 Product Categories by Revenue
 - Correlation Heatmap
@@ -45,7 +45,7 @@ The objective was to clean, merge, and analyze sales, product, and customer data
 - How do customer signup patterns affect purchasing behaviour?
   
 
-- ## Dashboard Screenshots
+- ## Dashboard 
 
 ### Revenue Trend by Region
 ![Revenue Trend by Region](screenshots/Revenue%20Trend%20by%20Region.png)
