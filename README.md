@@ -1,5 +1,3 @@
-# green-cart-sales-customer-insights
-Sales and Customer Behaviour Insights Analysis using Python, Pandas, Matplotlib and Seaborn.
 # Green Cart Ltd - Sales & Customer Behaviour Insights
 
 ## Project Overview
@@ -46,4 +44,3 @@ The objective was to clean, merge, and analyze sales, product, and customer data
 - Which regions experience the most delivery delays?
 - How do customer signup patterns affect purchasing behaviour?
 
-## Project Structure
