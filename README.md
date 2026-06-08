@@ -59,3 +59,9 @@ The objective was to clean, merge, and analyze sales, product, and customer data
 ### Loyalty Tier Analysis
 ![Loyalty Tier Analysis](screenshots/Loyalty%20Tier%20Analysis.png)
 
+### Quantity Distribution Across Top Categories
+![Quantity Distribution](screenshots/Quantity%20Distribution%20across%20Top%20Categories.png)
+
+### Delivery Status by Price Band
+![Delivery Status](screenshots/Delivery%20Status%20by%20Price%20Band.png)
+
