@@ -43,4 +43,19 @@ The objective was to clean, merge, and analyze sales, product, and customer data
 - Which loyalty tier generates the most value?
 - Which regions experience the most delivery delays?
 - How do customer signup patterns affect purchasing behaviour?
+- 
+
+- ## Dashboard Screenshots
+
+### Revenue Trend by Region
+![Revenue Trend by Region](screenshots/Revenue%20Trend%20by%20Region.png)
+
+### Top 5 Categories
+![Top 5 Categories](screenshots/Top%205%20Categories.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](screenshots/Correlation%20Heatmap.png)
+
+### Loyalty Tier Analysis
+![Loyalty Tier Analysis](screenshots/Loyalty%20Tier%20Analysis.png)
 
