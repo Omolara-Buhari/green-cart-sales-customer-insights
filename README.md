@@ -43,7 +43,7 @@ The objective was to clean, merge, and analyze sales, product, and customer data
 - Which loyalty tier generates the most value?
 - Which regions experience the most delivery delays?
 - How do customer signup patterns affect purchasing behaviour?
-- 
+  
 
 - ## Dashboard Screenshots
 
