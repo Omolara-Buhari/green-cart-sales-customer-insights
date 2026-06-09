@@ -60,31 +60,31 @@ The project uses three datasets:
 
 ![Revenue Trend by Region](screenshots/Revenue%20Trend%20by%20Region.png)
 
-2) ### Top 5 Categories by Revenue
+### 2. Top 5 Categories by Revenue
 
 * Identified the highest revenue-generating categories.
 
 ![Top 5 Categories](screenshots/Top%205%20Categories.png)
 
-3) ### Correlation Heatmap
+### 3. Correlation Heatmap
 
 * Explored relationships between revenue, quantity sold, and discounts.
 
 ![Correlation Heatmap](screenshots/Correlation%20Heatmap.png)
 
-4) ### Loyalty Tier Analysis
+### 4. Loyalty Tier Analysis
    
 * Examined customer purchasing behavior across loyalty levels.
    
 ![Loyalty Tier Analysis](screenshots/Loyalty%20Tier%20Analysis.png)
 
-5) ### Quantity Distribution Across Top Categories
+### 5. Quantity Distribution Across Top Categories
    
 * Compared order volumes among top-performing product categories.
      
 ![Quantity Distribution](screenshots/Quantity%20Distribution%20across%20Top%20Categories.png)
 
-6) ### Delivery Status by Price Band
+### 6. Delivery Status by Price Band
    
 * Evaluated delivery performance across different pricing segments.
   
