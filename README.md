@@ -54,7 +54,7 @@ The project uses three datasets:
 
 - ## Dashboard 
 
-1). ### Revenue Trend by Region
+1) ### Revenue Trend by Region
    
 * Analyzed weekly revenue performance across different regions.
 
