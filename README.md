@@ -92,8 +92,7 @@ The project uses three datasets:
 
 
 ## Business Impact
-
-* The insights generated from this analysis can help Green Cart Ltd:
+The insights generated from this analysis can help Green Cart Ltd:
 - Improve marketing strategies  
 - Optimize product offerings
 - Increase customer retention 
