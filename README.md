@@ -59,12 +59,15 @@ The project uses three datasets:
 
 ![Revenue Trend by Region](screenshots/Revenue%20Trend%20by%20Region.png)
 
-### Top 5 Categories
+### Top 5 Categories by Revenue
 * Identified the highest revenue-generating categories.
 
 ![Top 5 Categories](screenshots/Top%205%20Categories.png)
 
 ### Correlation Heatmap
+
+* Explored relationships between revenue, quantity sold, and discounts.
+
 ![Correlation Heatmap](screenshots/Correlation%20Heatmap.png)
 
 ### Loyalty Tier Analysis
