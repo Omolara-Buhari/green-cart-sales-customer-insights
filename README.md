@@ -74,13 +74,13 @@ The project uses three datasets:
 
 4) ### Loyalty Tier Analysis
    
- * Examined customer purchasing behavior across loyalty levels.
+* Examined customer purchasing behavior across loyalty levels.
    
 ![Loyalty Tier Analysis](screenshots/Loyalty%20Tier%20Analysis.png)
 
 5) ### Quantity Distribution Across Top Categories
    
-   * Compared order volumes among top-performing product categories.
+* Compared order volumes among top-performing product categories.
      
 ![Quantity Distribution](screenshots/Quantity%20Distribution%20across%20Top%20Categories.png)
 
