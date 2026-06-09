@@ -1,9 +1,16 @@
 # Green Cart Ltd - Sales & Customer Behaviour Insights
 
 ## Project Overview
-This project analyzes sales performance and customer behaviour for Green Cart Ltd, a UK-based e-commerce company specializing in eco-friendly household products.
+This project analyzes sales performance and customer purchasing behavior for Green Cart Ltd, a UK-based e-commerce company specializing in eco-friendly household products.
 
-The objective was to clean, merge, and analyze sales, product, and customer datasets to identify revenue trends, customer purchasing patterns, product performance, and delivery efficiency.
+The goal was to clean and merge multiple datasets, perform exploratory data analysis, create business-focused features, and generate actionable insights to support marketing and operational decision-making.
+
+## Dataset
+
+The project uses three datasets:
+- Sales Data
+- Product Information
+- Customer Information
 
 ## Tools Used
 - Python
@@ -31,6 +38,8 @@ The objective was to clean, merge, and analyze sales, product, and customer data
 
 ## Key Visualizations
 - Weekly Revenue Trends by Region
+- Analyzed weekly revenue performance across different regions.
+  
 - Top 5 Product Categories by Revenue
 - Correlation Heatmap
 - Orders by Loyalty Tier
