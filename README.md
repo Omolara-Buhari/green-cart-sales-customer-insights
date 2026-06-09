@@ -38,8 +38,6 @@ The project uses three datasets:
 
 ## Key Visualizations
 - Weekly Revenue Trends by Region
-- Analyzed weekly revenue performance across different regions.
-  
 - Top 5 Product Categories by Revenue
 - Correlation Heatmap
 - Orders by Loyalty Tier
@@ -57,6 +55,7 @@ The project uses three datasets:
 - ## Dashboard 
 
 ### Revenue Trend by Region
+Analyzed weekly revenue performance across different regions.
 ![Revenue Trend by Region](screenshots/Revenue%20Trend%20by%20Region.png)
 
 ### Top 5 Categories
