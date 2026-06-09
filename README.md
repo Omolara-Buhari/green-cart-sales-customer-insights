@@ -60,7 +60,7 @@ The project uses three datasets:
 ![Revenue Trend by Region](screenshots/Revenue%20Trend%20by%20Region.png)
 
 ### Top 5 Categories
-** Identified the highest revenue-generating categories.
+* Identified the highest revenue-generating categories.
 
 ![Top 5 Categories](screenshots/Top%205%20Categories.png)
 
