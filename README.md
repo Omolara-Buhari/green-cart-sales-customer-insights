@@ -90,3 +90,16 @@ The project uses three datasets:
   
 ![Delivery Status](screenshots/Delivery%20Status%20by%20Price%20Band.png)
 
+### Business Impact
+
+* The insights generated from this analysis can help Green Cart Ltd:
+
+- Improve marketing strategies
+   
+- Optimize product offerings
+  
+- Increase customer retention
+  
+-Reduce delivery delays
+
+-Enhance revenue growth opportunities
