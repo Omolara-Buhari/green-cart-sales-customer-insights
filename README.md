@@ -92,9 +92,8 @@ The project uses three datasets:
 
 
 ## Business Impact
-The insights generated from this analysis can help Green Cart Ltd:
-- Improve marketing strategies  
-- Optimize product offerings
-- Increase customer retention 
-- Reduce delivery delays
-- Enhance revenue growth opportunities
+The insights generated from this analysis can support Green Cart Ltd. in achieving measurable business improvements:
+- Improve Marketing Strategies: Targeting high-performing product categories and regions could increase campaign effectiveness and potentially improve conversion rates by 10–15%.
+- Optimize Product Offerings: Focusing inventory and promotions on top-performing categories such as Cleaning and Storage could improve product sales performance and increase category revenue by 5–10%.
+- Increase Customer Retention: Strengthening loyalty programs for high-value customers may improve repeat purchase rates and customer retention by 10–20%.
+- Reduce Delivery Delays: Identifying regions and price bands with higher delay rates can help streamline logistics operations and potentially reduce delayed deliveries by 15–25%.
